@@ -39,7 +39,7 @@
     "react-native-simple-dialogs": "^1.2.0",
     "react-native-swiper-flatlist": "^2.0.2",
     "react-navigation": "^3.11.0",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "babel-preset-expo": "^6.0.0",
