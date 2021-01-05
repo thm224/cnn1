@@ -15,7 +15,7 @@
     "@expo/samples": "~3.0.3",
     "@expo/vector-icons": "^10.0.3",
     "add": "^2.0.6",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "core-js": "^3",
     "ex-react-native-i18n": "^0.0.6",
     "expo": "^34.0.1",
